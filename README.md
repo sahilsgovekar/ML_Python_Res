@@ -1,5 +1,5 @@
 # Resource
 
 ### Slides
-[Go to slides](slides.md)
+[Go to slides](Slides.md)
 
