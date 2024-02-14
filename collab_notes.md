@@ -23,6 +23,8 @@
 
 ### Clustering
 * Hierarchical Clustering  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wjaa98Q0xTCvpozfyZ9sntA7uZxAo29H?usp=sharing)
+* K means clustering  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QfH_FZpU49FGzD7I4FQ77Gyjb2RUgCKR?usp=sharing)
+
 
 Test Check
 * No Acess  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
