@@ -15,6 +15,11 @@
 
 ### classification
 * KNN  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jt5w7dhjoiKFsC23V00qmL6abIKbbjOn)
+* Logistic Regression  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q-4QZiMCvQ2S63RUd6UHdX330-DYfRl1?usp=sharing)
+* Decision Tree Classification  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XJsxSq0TLmzVdVDfxSmo8oXCO0HORasr?usp=sharing)
+
+### Ensemble Technique
+* Random Forest  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zS-fF7IoUclDaKGBlmOh4TKIpmxIJuTh?usp=sharing)
 
 Test Check
 * No Acess  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
