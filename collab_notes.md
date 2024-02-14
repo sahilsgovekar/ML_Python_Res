@@ -21,5 +21,8 @@
 ### Ensemble Technique
 * Random Forest  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zS-fF7IoUclDaKGBlmOh4TKIpmxIJuTh?usp=sharing)
 
+### Clustering
+* Hierarchical Clustering  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wjaa98Q0xTCvpozfyZ9sntA7uZxAo29H?usp=sharing)
+
 Test Check
 * No Acess  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
