@@ -12,3 +12,6 @@
 
 ## protfolio website
 https://docs.google.com/spreadsheets/d/1ehsfLj9-K3PkCbRKoEARZXIsbvBfKsT8lR04Q1d1dwg/edit?usp=sharing
+
+# Project
+* project title selection : https://docs.google.com/spreadsheets/d/1eoSJmlkr0ZR-Qg4Nv3PlSBCrAm8xQRoD_MPOSo7PTPI/edit?usp=sharing
